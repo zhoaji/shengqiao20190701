@@ -1,0 +1,223 @@
+Removed Pin From Net: NetName=VCC5V2 Pin=C21-1
+Removed Pin From Net: NetName=DGND5V2 Pin=C21-2
+Removed Pin From Net: NetName=VCC5V2 Pin=C22-1
+Removed Pin From Net: NetName=DGND5V2 Pin=C22-2
+Removed Pin From Net: NetName=DGND5V2 Pin=C23-1
+Removed Pin From Net: NetName=VEE5V2 Pin=C23-2
+Removed Pin From Net: NetName=DGND5V2 Pin=C24-1
+Removed Pin From Net: NetName=VEE5V2 Pin=C24-2
+Removed Pin From Net: NetName=DGND5V2 Pin=C25-1
+Removed Pin From Net: NetName=3.3V Pin=C27-1
+Removed Pin From Net: NetName=DGND5V2 Pin=C27-2
+Removed Pin From Net: NetName=DGND5V2 Pin=C100-1
+Removed Pin From Net: NetName=PE4 Pin=K1-1
+Removed Pin From Net: NetName=DGND5V2 Pin=K1-2
+Removed Pin From Net: NetName=PE5 Pin=K2-1
+Removed Pin From Net: NetName=DGND5V2 Pin=K2-2
+Removed Pin From Net: NetName=DGND5V2 Pin=P14-1
+Removed Pin From Net: NetName=DGND5V2 Pin=P14-3
+Removed Pin From Net: NetName=PA9 Pin=P14-4
+Removed Pin From Net: NetName=PA10 Pin=P14-5
+Removed Pin From Net: NetName=3.3V Pin=P14-6
+Removed Pin From Net: NetName=3.3V Pin=P14-8
+Removed Pin From Net: NetName=VCC5V2 Pin=P15-1
+Removed Pin From Net: NetName=3.3V Pin=P15-2
+Removed Pin From Net: NetName=PD8 Pin=P15-3
+Removed Pin From Net: NetName=PD9 Pin=P15-4
+Removed Pin From Net: NetName=DGND5V2 Pin=P15-5
+Removed Pin From Net: NetName=VCC5V2 Pin=R12-1
+Removed Pin From Net: NetName=VEE5V2 Pin=R12-3
+Removed Pin From Net: NetName=VCC5V2 Pin=R100-2
+Removed Pin From Net: NetName=VEE5V2 Pin=U2-4
+Removed Pin From Net: NetName=VCC5V2 Pin=U2-8
+Removed Pin From Net: NetName=DAC Pin=U3-29
+Removed Pin From Net: NetName=MAX14803_CLR Pin=U3-47
+Removed Pin From Net: NetName=MAX14803_CLK Pin=U3-52
+Removed Pin From Net: NetName=MAX14803_DOUT Pin=U3-53
+Removed Pin From Net: NetName=MAX14803_DIN Pin=U3-54
+Removed Pin From Net: NetName=MAX14803_NLE Pin=U3-96
+Removed Pin From Net: NetName=DGND5V2 Pin=U4-17
+Removed Pin From Net: NetName=3.3V Pin=U4-18
+Removed Member From Class: ClassName=高压刺激电路 Member=K1
+Removed Member From Class: ClassName=高压刺激电路 Member=K2
+Removed Member From Class: ClassName=高压刺激电路 Member=P14
+Removed Member From Class: ClassName=高压刺激电路 Member=P15
+Change Component DesignItemId : Designator=DC-DC1 Old DesignItemId= New DesignItemId=12-5
+Change Component DesignItemId : Designator=DC-DC3 Old DesignItemId= New DesignItemId=12-5
+Change Component DesignItemId : Designator=2 Old DesignItemId= New DesignItemId=12-60
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=AMS1117
+Change Component DesignItemId : Designator=U201 Old DesignItemId= New DesignItemId=CN1185
+Change Component DesignItemId : Designator=U200 Old DesignItemId= New DesignItemId=L7805
+Change Component DesignItemId : Designator=P7 Old DesignItemId= New DesignItemId=ST-LINK
+Change Component DesignItemId : Designator=U5 Old DesignItemId= New DesignItemId=TLP521-4
+Change Component DesignItemId : Designator=R11 Old DesignItemId=ResVar New DesignItemId=ResVari
+Change Component DesignItemId : Designator=R12 Old DesignItemId=ResVar New DesignItemId=ResVari
+Change Component DesignItemId : Designator=U3 Old DesignItemId=STM32 New DesignItemId=STM32F103VET6
+Change Component DesignItemId : Designator=U2 Old DesignItemId=TLC225 New DesignItemId=TLC2252
+Change Component Description : Designator=P_F1 Old Description= New Description=Fuse
+Change Component Description : Designator=P_F2 Old Description= New Description=Fuse
+Change Component Description : Designator=U4 Old Description= New Description=MAX14803
+Change Component Description : Designator=R16 Old Description= New Description=Resistor
+Change Component Description : Designator=R17 Old Description= New Description=Resistor
+Change Component Description : Designator=R100 Old Description= New Description=Resistor
+Change Component Description : Designator=D1 Old Description=1.0 Ampere Schottky Barrier Re New Description=1.0 Ampere Schottky Barrier Rectifiers
+Change Component Description : Designator=C11 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C19 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C22 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C24 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C25 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C26 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C27 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C28 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C29 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C30 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C31 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C33 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C35 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C36 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C37 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C38 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C39 Old Description=Capacitor (Semiconductor SI New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C13 Old Description=Capacitor (Semiconductor SIM Mode New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=Y1 Old Description=Crystal Oscill New Description=Crystal Oscillator
+Change Component Description : Designator=P_F3 Old Description=Fu New Description=Fuse
+Change Component Description : Designator=C100 Old Description=Heade New Description=Header, 2-Pin
+Change Component Description : Designator=P6 Old Description=Heade New Description=Header, 2-Pin
+Change Component Description : Designator=P8 Old Description=Heade New Description=Header, 2-Pin
+Change Component Description : Designator=P9 Old Description=Heade New Description=Header, 2-Pin
+Change Component Description : Designator=P10 Old Description=Heade New Description=Header, 2-Pin
+Change Component Description : Designator=P11 Old Description=Heade New Description=Header, 2-Pin
+Change Component Description : Designator=P12 Old Description=Heade New Description=Header, 2-Pin
+Change Component Description : Designator=P3 Old Description=Header, 2-P New Description=Header, 2-Pin
+Change Component Description : Designator=JP6 Old Description=Header, 3-P New Description=Header, 3-Pin
+Change Component Description : Designator=POWER1 Old Description=Header, 3-P New Description=Header, 3-Pin
+Change Component Description : Designator=POWER2 Old Description=Header, 3-P New Description=Header, 3-Pin
+Change Component Description : Designator=POWER3 Old Description=Header, 3-P New Description=Header, 3-Pin
+Change Component Description : Designator=POWER4 Old Description=Header, 3-P New Description=Header, 3-Pin
+Change Component Description : Designator=P4 Old Description=Header, 4-P New Description=Header, 4-Pin
+Change Component Description : Designator=P5 Old Description=Header, 5-P New Description=Header, 5-Pin
+Change Component Description : Designator=JP1 Old Description=Header, 6-P New Description=Header, 6-Pin
+Change Component Description : Designator=P1 Old Description=Header, 17-Pin, D New Description=Header, 17-Pin, Dual row
+Change Component Description : Designator=P_L1 Old Description=Indu New Description=Inductor
+Change Component Description : Designator=P_L2 Old Description=Indu New Description=Inductor
+Change Component Description : Designator=P_L3 Old Description=Indu New Description=Inductor
+Change Component Description : Designator=P_L4 Old Description=Indu New Description=Inductor
+Change Component Description : Designator=P_L5 Old Description=Indu New Description=Inductor
+Change Component Description : Designator=P_L6 Old Description=Indu New Description=Inductor
+Change Component Description : Designator=P_L8 Old Description=Indu New Description=Inductor
+Change Component Description : Designator=P_L9 Old Description=Indu New Description=Inductor
+Change Component Description : Designator=Q5 Old Description=NPN General Purpose A New Description=NPN General Purpose Amplifier
+Change Component Description : Designator=Q7 Old Description=NPN General Purpose A New Description=NPN General Purpose Amplifier
+Change Component Description : Designator=Q8 Old Description=NPN General Purpose A New Description=NPN General Purpose Amplifier
+Change Component Description : Designator=Q9 Old Description=NPN General Purpose A New Description=NPN General Purpose Amplifier
+Change Component Description : Designator=Q10 Old Description=NPN General Purpose A New Description=NPN General Purpose Amplifier
+Change Component Description : Designator=Q1 Old Description=PNP General Purpose A New Description=PNP General Purpose Amplifier
+Change Component Description : Designator=Q2 Old Description=PNP General Purpose A New Description=PNP General Purpose Amplifier
+Change Component Description : Designator=Q3 Old Description=PNP General Purpose A New Description=PNP General Purpose Amplifier
+Change Component Description : Designator=Q4 Old Description=PNP General Purpose A New Description=PNP General Purpose Amplifier
+Change Component Description : Designator=Q6 Old Description=PNP General Purpose A New Description=PNP General Purpose Amplifier
+Change Component Description : Designator=P_C1 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=P_C2 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=P_C3 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=P_C4 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=P_C5 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=P_C6 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=P_C8 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=P_C9 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=C32 Old Description=Polarized Capacitor (Surface Mount New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=C34 Old Description=Polarized Capacitor (Surface Mount New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=C20 Old Description=Polarized Capacitor New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=C21 Old Description=Polarized Capacitor New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=C23 Old Description=Polarized Capacitor New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=R9 Old Description=Resist New Description=Resistor
+Change Component Description : Designator=R10 Old Description=Resist New Description=Resistor
+Change Component Description : Designator=R13 Old Description=Resist New Description=Resistor
+Change Component Description : Designator=R14 Old Description=Resist New Description=Resistor
+Change Component Description : Designator=R15 Old Description=Resist New Description=Resistor
+Change Component Description : Designator=R2 Old Description=Resisto New Description=Resistor
+Change Component Description : Designator=R7 Old Description=Resisto New Description=Resistor
+Change Component Description : Designator=R8 Old Description=Resisto New Description=Resistor
+Change Component Description : Designator=R19 Old Description=Resisto New Description=Resistor
+Change Component Description : Designator=R21 Old Description=Resisto New Description=Resistor
+Change Component Description : Designator=R22 Old Description=Resisto New Description=Resistor
+Change Component Description : Designator=R23 Old Description=Resisto New Description=Resistor
+Change Component Description : Designator=R24 Old Description=Resisto New Description=Resistor
+Change Component Description : Designator=S1 Old Description=S New Description=Switch-按键
+Change Component Description : Designator=LED10 Old Description=Typical BLUE SiC L New Description=Typical BLUE SiC LED
+Added Component: Designator=1(ISO7761)
+Added Component: Designator=C15(cap0603)
+Added Component: Designator=C16(cap0603)
+Added Component: Designator=C16(cap0603)
+Added Component: Designator=DCP1(PCBComponent_1)
+Added Component: Designator=R5(6-0805_M)
+Added Pin To Net: NetName=3.3V Pin=1-1
+Added Pin To Net: NetName=DAC Pin=1-7
+Added Pin To Net: NetName=DGND5V2 Pin=1-8
+Added Pin To Net: NetName=MAX14803_DOUT Pin=1-11
+Added Pin To Net: NetName=MAX14803_CLR Pin=1-12
+Added Pin To Net: NetName=MAX14803_NLE Pin=1-13
+Added Pin To Net: NetName=MAX14803_CLK Pin=1-14
+Added Pin To Net: NetName=MAX14803_DIN Pin=1-15
+Added Pin To Net: NetName=VCC5V2 Pin=C16-1
+Added Pin To Net: NetName=GND5V2 Pin=C16-2
+Added Pin To Net: NetName=VCC5V2 Pin=DCP1-1
+Added Pin To Net: NetName=GND5V2 Pin=DCP1-2
+Added Pin To Net: NetName=DGND Pin=R5-1
+Added Pin To Net: NetName=GND5V1 Pin=R5-2
+Added Pin To Net: NetName=GND5V Pin=1-9
+Added Pin To Net: NetName=GND5V Pin=C15-1
+Added Pin To Net: NetName=GND5V Pin=C16-2
+Added Pin To Net: NetName=GND5V Pin=C21-2
+Added Pin To Net: NetName=GND5V Pin=C22-2
+Added Pin To Net: NetName=GND5V Pin=C23-1
+Added Pin To Net: NetName=GND5V Pin=C24-1
+Added Pin To Net: NetName=GND5V Pin=C25-1
+Added Pin To Net: NetName=GND5V Pin=C27-2
+Added Pin To Net: NetName=GND5V Pin=C100-1
+Added Pin To Net: NetName=GND5V Pin=U4-17
+Added Net: Name=GND5V
+Added Pin To Net: NetName=PA4 Pin=1-10
+Added Pin To Net: NetName=PA4 Pin=U3-29
+Added Net: Name=PA4
+Added Pin To Net: NetName=PB9 Pin=1-4
+Added Pin To Net: NetName=PB9 Pin=U3-96
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB10 Pin=1-5
+Added Pin To Net: NetName=PB10 Pin=U3-47
+Added Net: Name=PB10
+Added Pin To Net: NetName=PB13 Pin=1-3
+Added Pin To Net: NetName=PB13 Pin=U3-52
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=1-6
+Added Pin To Net: NetName=PB14 Pin=U3-53
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=1-2
+Added Pin To Net: NetName=PB15 Pin=U3-54
+Added Net: Name=PB15
+Added Pin To Net: NetName=VCC5V Pin=1-16
+Added Pin To Net: NetName=VCC5V Pin=C16-1
+Added Pin To Net: NetName=VCC5V Pin=C21-1
+Added Pin To Net: NetName=VCC5V Pin=C22-1
+Added Pin To Net: NetName=VCC5V Pin=C27-1
+Added Pin To Net: NetName=VCC5V Pin=R12-1
+Added Pin To Net: NetName=VCC5V Pin=R100-2
+Added Pin To Net: NetName=VCC5V Pin=U2-8
+Added Pin To Net: NetName=VCC5V Pin=U4-18
+Added Net: Name=VCC5V
+Added Pin To Net: NetName=VEE5V Pin=C15-2
+Added Pin To Net: NetName=VEE5V Pin=C23-2
+Added Pin To Net: NetName=VEE5V Pin=C24-2
+Added Pin To Net: NetName=VEE5V Pin=R12-3
+Added Pin To Net: NetName=VEE5V Pin=U2-4
+Added Net: Name=VEE5V
+Added Member To Class: ClassName=高压刺激电路 Member=Component 1 ISO7761
+Added Member To Class: ClassName=高压刺激电路 Member=Component C15 2.2u
+Added Member To Class: ClassName=高压刺激电路 Member=Component C16 2.2u
+Added Member To Class: ClassName=高压刺激电路 Member=Component DCP1 DCP010505DB
+Added Member To Class: ClassName=U_ADC_USB Member=Component R5 Bead
+Added Member To Class: ClassName=高压刺激电路 Member=Component  0ohm
+Added Room: Name=U_ADC_USB
+Added Room: Name=U_Li_Monitor
+Added Room: Name=U_电源3
+Added Room: Name=输出板
+Added Room: Name=高压刺激电路

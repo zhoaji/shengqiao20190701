@@ -1,0 +1,10 @@
+Added Component: Designator=(6-0805_M)
+Added Pin To Net: NetName=DGND5V2 Pin=-1
+Added Pin To Net: NetName=GND5V2 Pin=-2
+Added Member To Class: ClassName=U_ADC_USB Member=Component R5 Bead
+Added Member To Class: ClassName=高压刺激电路 Member=Component  0ohm
+Added Room: Name=U_ADC_USB
+Added Room: Name=U_Li_Monitor
+Added Room: Name=U_电源3
+Added Room: Name=输出板
+Added Room: Name=高压刺激电路
