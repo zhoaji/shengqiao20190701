@@ -1,0 +1,12 @@
+Added Component: Designator=power(DCP010505DB(PDIP))
+Added Pin To Net: NetName=VCC5V2 Pin=power-1
+Added Pin To Net: NetName=GND5V2 Pin=power-2
+Added Pin To Net: NetName=GND5V Pin=power-5
+Added Pin To Net: NetName=VCC5V Pin=power-6
+Added Pin To Net: NetName=VEE5V Pin=power-7
+Added Member To Class: ClassName=高压刺激电路 Member=Component power 120
+Added Room: Name=U_ADC_USB
+Added Room: Name=U_Li_Monitor
+Added Room: Name=U_电源3
+Added Room: Name=输出板
+Added Room: Name=高压刺激电路

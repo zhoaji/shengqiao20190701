@@ -1,10 +1,9 @@
-Output: EDIF for PCB
-Type  : EDIF
-From  : Project [PCB_Project3.PrjPcb]
-   Generated File[高压刺激电路.EDF]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [PCB_Project3.PrjPcb]
 
 
-Files Generated   : 1
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 10:29:38 On 2019/6/14
+Finished Output Generation At 14:18:21 On 2019/7/4/周四
