@@ -1,9 +1,0 @@
-Added Component: Designator=C41(C0603)
-Added Pin To Net: NetName=VCC5V Pin=C41-1
-Added Pin To Net: NetName=GND5V Pin=C41-2
-Added Member To Class: ClassName=高压刺激电路 Member=Component C41 0.1uF
-Added Room: Name=U_ADC_USB
-Added Room: Name=U_Li_Monitor
-Added Room: Name=U_电源3
-Added Room: Name=输出板
-Added Room: Name=高压刺激电路
